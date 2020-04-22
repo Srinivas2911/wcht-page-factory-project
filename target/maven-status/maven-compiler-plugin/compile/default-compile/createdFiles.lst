@@ -1,0 +1,7 @@
+org\uk\wcht\browserselector\BrowserSelector.class
+org\uk\wcht\basepage\BasePage.class
+org\uk\wcht\utility\Utility.class
+org\uk\wcht\pages\HomePage.class
+org\uk\wcht\pages\MyAccountPage.class
+org\uk\wcht\loadProperty\LoadProperty.class
+org\uk\wcht\pages\RegisterPage.class

@@ -1,0 +1,44 @@
+2020-04-19 18:04:563 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 18:04:118 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 18:04:755 INFO  HomePage :62 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-19 18:04:827 INFO  HomePage :32 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (66464ee868c6ea7001b18c2a0382340c)] -> xpath: //div[@class='panel-heading']]
+2020-04-19 18:04:852 INFO  HomePage :37 - Displaying My Account Text :[[ChromeDriver: chrome on WINDOWS (66464ee868c6ea7001b18c2a0382340c)] -> xpath: //div[@class='panel-heading']]
+2020-04-19 18:04:143 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 18:04:401 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 18:04:238 INFO  HomePage :62 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-19 18:04:512 INFO  HomePage :44 - Clicking on Register Link :[[ChromeDriver: chrome on WINDOWS (da0459cad1b95e56cfd1bae86935de1d)] -> partial link text: Regist]
+2020-04-19 18:04:608 INFO  HomePage :32 - Getting Register Text :[[ChromeDriver: chrome on WINDOWS (da0459cad1b95e56cfd1bae86935de1d)] -> xpath: //h3[@class='panel-title']] [[ChromeDriver: chrome on WINDOWS (da0459cad1b95e56cfd1bae86935de1d)] -> xpath: //h3[@class='panel-title']]
+2020-04-19 18:04:143 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 18:04:479 INFO  HomePage :62 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-19 18:04:560 INFO  HomePage :32 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (75162697dc11bc9961928eeb7457f643)] -> xpath: //div[@class='panel-heading']]
+2020-04-19 18:04:586 INFO  HomePage :37 - Displaying My Account Text :[[ChromeDriver: chrome on WINDOWS (75162697dc11bc9961928eeb7457f643)] -> xpath: //div[@class='panel-heading']]
+2020-04-19 18:04:45 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 18:04:125 INFO  HomePage :62 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-19 18:04:390 INFO  HomePage :44 - Clicking on Register Link :[[ChromeDriver: chrome on WINDOWS (cd260ba1eaec7a8083048ffe0a6c4ff9)] -> partial link text: Regist]
+2020-04-19 18:04:535 INFO  HomePage :32 - Getting Register Text :[[ChromeDriver: chrome on WINDOWS (cd260ba1eaec7a8083048ffe0a6c4ff9)] -> xpath: //h3[@class='panel-title']] [[ChromeDriver: chrome on WINDOWS (cd260ba1eaec7a8083048ffe0a6c4ff9)] -> xpath: //h3[@class='panel-title']]
+2020-04-19 18:04:765 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 18:04:282 INFO  HomePage :62 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-19 18:04:354 INFO  HomePage :32 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (e71734b533b909f4c704f1f4ae182935)] -> xpath: //div[@class='panel-heading']]
+2020-04-19 18:04:379 INFO  HomePage :37 - Displaying My Account Text :[[ChromeDriver: chrome on WINDOWS (e71734b533b909f4c704f1f4ae182935)] -> xpath: //div[@class='panel-heading']]
+2020-04-19 18:04:185 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 18:04:993 INFO  HomePage :62 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-19 18:04:263 INFO  HomePage :44 - Clicking on Register Link :[[ChromeDriver: chrome on WINDOWS (a887cda9a7e730cf12e782f0d42dffa0)] -> partial link text: Regist]
+2020-04-19 18:04:367 INFO  HomePage :32 - Getting Register Text :[[ChromeDriver: chrome on WINDOWS (a887cda9a7e730cf12e782f0d42dffa0)] -> xpath: //h3[@class='panel-title']] [[ChromeDriver: chrome on WINDOWS (a887cda9a7e730cf12e782f0d42dffa0)] -> xpath: //h3[@class='panel-title']]
+2020-04-19 18:04:496 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 18:04:830 INFO  HomePage :62 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-19 18:04:955 INFO  HomePage :32 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (f50588842537c0a909a62d7dd091caf5)] -> xpath: //div[@class='panel-heading']]
+2020-04-19 18:04:205 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 18:04:935 INFO  HomePage :62 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-19 18:04:338 INFO  HomePage :44 - Clicking on Register Link :[[ChromeDriver: chrome on WINDOWS (96f10c97a6fb0d99f4c2eda031e2f812)] -> partial link text: Regist]
+2020-04-19 18:04:849 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 18:04:821 INFO  HomePage :62 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-19 18:04:897 INFO  HomePage :32 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (f81a7140f6ed020af579da5cd71f8d9b)] -> xpath: //div[@class='panel-heading']]
+2020-04-19 18:04:984 INFO  HomePage :37 - Displaying My Account Text :My Account [[ChromeDriver: chrome on WINDOWS (f81a7140f6ed020af579da5cd71f8d9b)] -> xpath: //div[@class='panel-heading']]
+2020-04-19 19:04:320 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:528 INFO  HomePage :62 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-19 19:04:618 INFO  HomePage :32 - Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (93f32533754f958998189c7e560ff643)] -> xpath: //div[@class='panel-heading']]
+2020-04-19 19:04:692 INFO  HomePage :37 - Displaying My Account Text :My Account [[ChromeDriver: chrome on WINDOWS (93f32533754f958998189c7e560ff643)] -> xpath: //div[@class='panel-heading']]
+2020-04-19 19:04:260 INFO  BrowserSelector :21 - Launching Chrome Browser
+2020-04-19 19:04:444 INFO  HomePage :62 - Clicking on Your Account Link :Proxy element for: DefaultElementLocator 'By.xpath: //span[contains(text(),'Your account')]'
+2020-04-19 19:04:766 INFO  HomePage :44 - Clicking on Register Link :[[ChromeDriver: chrome on WINDOWS (752d6e2747a411c9bc1ec5151280e4aa)] -> partial link text: Regist]
+2020-04-19 19:04:860 INFO  HomePage :32 - Getting Register Text [[ChromeDriver: chrome on WINDOWS (752d6e2747a411c9bc1ec5151280e4aa)] -> xpath: //h3[@class='panel-title']]

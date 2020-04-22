@@ -1,0 +1,4 @@
+org\uk\wcht\testbase\TestBase.class
+org\uk\wcht\testsuite\RegisterPageTest.class
+org\uk\wcht\listeners\Listeners.class
+org\uk\wcht\testsuite\MyAccountPageTest.class

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WCHT Test" verbose="1">
+    <listeners>
+        <listener class-name="org.uk.wcht.listeners.Listeners"></listener>
+    </listeners>
+    <test name="My Account Page Test">
+        <classes>
+            <class name="org.uk.wcht.testsuite.MyAccountPageTest"></class>
+        </classes>
+    </test>
+    <test name="Register Page Test">
+        <classes>
+            <class name="org.uk.wcht.testsuite.RegisterPageTest"></class>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching Chrome Browser]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (75162697dc11bc9961928eeb7457f643)] -> xpath: //span[contains(text(),'Your account')]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Displaying My Account Text Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (75162697dc11bc9961928eeb7457f643)] -> xpath: //div[@class='panel-heading']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Displaying My Account Text  :[[ChromeDriver: chrome on WINDOWS (75162697dc11bc9961928eeb7457f643)] -> xpath: //div[@class='panel-heading']]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Launching Chrome Browser]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (cd260ba1eaec7a8083048ffe0a6c4ff9)] -> xpath: //span[contains(text(),'Your account')]]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Register Link :[[ChromeDriver: chrome on WINDOWS (cd260ba1eaec7a8083048ffe0a6c4ff9)] -> partial link text: Regist]<br>]]>
+    </line>
+    <line>
+      <![CDATA[Getting Register Text  :[[ChromeDriver: chrome on WINDOWS (cd260ba1eaec7a8083048ffe0a6c4ff9)] -> xpath: //h3[@class='panel-title']] [[ChromeDriver: chrome on WINDOWS (cd260ba1eaec7a8083048ffe0a6c4ff9)] -> xpath: //h3[@class='panel-title']]<br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="63816" started-at="2020-04-19T18:48:22 BST" finished-at="2020-04-19T18:49:25 BST">
+    <groups>
+      <group name="regression">
+        <method signature="MyAccountPageTest.verifyThatUserIsAbletoNavigateToYourAccountPage()[pri:0, instance:org.uk.wcht.testsuite.MyAccountPageTest@646d64ab]" name="verifyThatUserIsAbletoNavigateToYourAccountPage" class="org.uk.wcht.testsuite.MyAccountPageTest"/>
+        <method signature="RegisterPageTest.verifyThatUserisAbletoNavigatetoLoginPageThruMyAccountPage()[pri:0, instance:org.uk.wcht.testsuite.RegisterPageTest@59e5ddf]" name="verifyThatUserisAbletoNavigatetoLoginPageThruMyAccountPage" class="org.uk.wcht.testsuite.RegisterPageTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="MyAccountPageTest.verifyThatUserIsAbletoNavigateToYourAccountPage()[pri:0, instance:org.uk.wcht.testsuite.MyAccountPageTest@646d64ab]" name="verifyThatUserIsAbletoNavigateToYourAccountPage" class="org.uk.wcht.testsuite.MyAccountPageTest"/>
+      </group> <!-- smoke -->
+      <group name="sanity">
+        <method signature="RegisterPageTest.verifyThatUserisAbletoNavigatetoLoginPageThruMyAccountPage()[pri:0, instance:org.uk.wcht.testsuite.RegisterPageTest@59e5ddf]" name="verifyThatUserisAbletoNavigatetoLoginPageThruMyAccountPage" class="org.uk.wcht.testsuite.RegisterPageTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Surefire test" duration-ms="63816" started-at="2020-04-19T18:48:22 BST" finished-at="2020-04-19T18:49:25 BST">
+      <class name="org.uk.wcht.testsuite.RegisterPageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:org.uk.wcht.testsuite.RegisterPageTest@59e5ddf]" name="openBrowser" is-config="true" duration-ms="19075" started-at="2020-04-19T18:48:54 BST" finished-at="2020-04-19T18:49:13 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:org.uk.wcht.testsuite.RegisterPageTest@59e5ddf]" name="setUpMethod" is-config="true" duration-ms="14" started-at="2020-04-19T18:49:13 BST" finished-at="2020-04-19T18:49:13 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="verifyThatUserisAbletoNavigatetoLoginPageThruMyAccountPage()[pri:0, instance:org.uk.wcht.testsuite.RegisterPageTest@59e5ddf]" name="verifyThatUserisAbletoNavigatetoLoginPageThruMyAccountPage" duration-ms="11440" started-at="2020-04-19T18:49:13 BST" finished-at="2020-04-19T18:49:24 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (cd260ba1eaec7a8083048ffe0a6c4ff9)] -> xpath: //span[contains(text(),'Your account')]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Register Link :[[ChromeDriver: chrome on WINDOWS (cd260ba1eaec7a8083048ffe0a6c4ff9)] -> partial link text: Regist]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Getting Register Text  :[[ChromeDriver: chrome on WINDOWS (cd260ba1eaec7a8083048ffe0a6c4ff9)] -> xpath: //h3[@class='panel-title']] [[ChromeDriver: chrome on WINDOWS (cd260ba1eaec7a8083048ffe0a6c4ff9)] -> xpath: //h3[@class='panel-title']]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserisAbletoNavigatetoLoginPageThruMyAccountPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.uk.wcht.testsuite.RegisterPageTest@59e5ddf]" name="tearDown" is-config="true" duration-ms="1310" started-at="2020-04-19T18:49:24 BST" finished-at="2020-04-19T18:49:25 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.uk.wcht.testsuite.RegisterPageTest -->
+      <class name="org.uk.wcht.testsuite.MyAccountPageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:org.uk.wcht.testsuite.MyAccountPageTest@646d64ab]" name="openBrowser" is-config="true" duration-ms="19593" started-at="2020-04-19T18:48:22 BST" finished-at="2020-04-19T18:48:41 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Chrome Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:org.uk.wcht.testsuite.MyAccountPageTest@646d64ab]" name="setUpMethod" is-config="true" duration-ms="95" started-at="2020-04-19T18:48:41 BST" finished-at="2020-04-19T18:48:41 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="verifyThatUserIsAbletoNavigateToYourAccountPage()[pri:0, instance:org.uk.wcht.testsuite.MyAccountPageTest@646d64ab]" name="verifyThatUserIsAbletoNavigateToYourAccountPage" duration-ms="10792" started-at="2020-04-19T18:48:41 BST" finished-at="2020-04-19T18:48:52 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (75162697dc11bc9961928eeb7457f643)] -> xpath: //span[contains(text(),'Your account')]]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Displaying My Account Text Clicking on Your Account Link :[[ChromeDriver: chrome on WINDOWS (75162697dc11bc9961928eeb7457f643)] -> xpath: //div[@class='panel-heading']]<br>]]>
+            </line>
+            <line>
+              <![CDATA[Displaying My Account Text  :[[ChromeDriver: chrome on WINDOWS (75162697dc11bc9961928eeb7457f643)] -> xpath: //div[@class='panel-heading']]<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserIsAbletoNavigateToYourAccountPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:org.uk.wcht.testsuite.MyAccountPageTest@646d64ab]" name="tearDown" is-config="true" duration-ms="1413" started-at="2020-04-19T18:48:52 BST" finished-at="2020-04-19T18:48:54 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.uk.wcht.testsuite.MyAccountPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

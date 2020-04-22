@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="My Account Page Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="10.740">
+  <properties />
+  
+  
+            <testcase name="verifyThatUserIsAbletoNavigateToYourAccountPage" time="10.740" classname="org.uk.wcht.testsuite.MyAccountPageTest" />
+      
+</testsuite>
